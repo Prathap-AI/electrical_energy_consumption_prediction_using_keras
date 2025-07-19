@@ -1,1 +1,1 @@
-# electrical_energy_consumption_prediction_using_keras
+# Electrical_Energy_Consumption_Prediction_using_keras

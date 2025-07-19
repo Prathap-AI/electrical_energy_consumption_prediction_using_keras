@@ -1,8 +1,9 @@
 # Electrical_Energy_Consumption_Prediction_using_keras
-##Project Overview
+## Project Overview
+
 This project focuses on predicting electrical energy consumption using deep learning techniques implemented with Keras. The model analyzes historical energy consumption patterns to forecast future usage, which can be valuable for energy providers, grid operators, and facility managers.
 
-##Features
+## Features
 Time-series forecasting of electrical energy consumption
 
 Deep learning model built with Keras
@@ -13,7 +14,7 @@ Model evaluation metrics
 
 Visualization of predictions vs actual consumption
 
-Requirements
+## Requirements
 
 To run this project, you'll need:
 
@@ -31,7 +32,7 @@ To run this project, you'll need:
   
   Scikit-learn
 
-##Model Architecture
+## Model Architecture
 
 The project implements a sequential neural network with:
 
@@ -41,7 +42,7 @@ The project implements a sequential neural network with:
   
   Dropout layers for regularization
 
-##Results
+## Results
 The model achieves:
 
 Mean Absolute Error (MAE): 6.205555905553274
